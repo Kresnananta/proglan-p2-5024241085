@@ -23,7 +23,7 @@ public:
         return stamina;
     } 
 };
-
+ 
 class FirstVocaloid : public Vocaloid {
 public:
     FirstVocaloid(std::string nama, int accuracy, int stamina)
